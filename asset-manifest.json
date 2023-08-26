@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taiyo_contact/static/css/main.6065b030.css",
+    "main.js": "/taiyo_contact/static/js/main.ba9f4a57.js",
+    "index.html": "/taiyo_contact/index.html",
+    "main.6065b030.css.map": "/taiyo_contact/static/css/main.6065b030.css.map",
+    "main.ba9f4a57.js.map": "/taiyo_contact/static/js/main.ba9f4a57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6065b030.css",
+    "static/js/main.ba9f4a57.js"
+  ]
+}
